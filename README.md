@@ -1,3 +1,3 @@
 # Soomething
 gkfkuyu
-[d](hn.md)
+[d](https://yashar2028.github.io/Soomething/hn)
